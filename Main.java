@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Основной класс приложения для демонстрации работы методов класса Lab1.
+ * Основной класс приложения для демонстрации работы методов класса Test.
  */
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -369,4 +369,5 @@ public class Main {
         in.close();
         System.out.println("Программа завершена.");
     }
+
 }
